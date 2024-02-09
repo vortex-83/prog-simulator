@@ -335,3 +335,11 @@ textarea {
 .item21 {
   grid-column: 4 / span 3;
 }
+
+.item22 {
+  grid-column: 1 / span 3;
+}
+
+.item23 {
+  grid-column: 4 / span 3;
+}
