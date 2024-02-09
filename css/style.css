@@ -249,7 +249,7 @@ textarea {
   display: grid;
   column-gap: 50px;
   row-gap: 50px;
-  grid-template-columns: auto auto auto auto auto auto;
+  grid-template-columns: 100 100 100 100 100 100;
 }
 
 .item1 {
