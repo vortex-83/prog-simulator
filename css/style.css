@@ -337,9 +337,13 @@ textarea {
 }
 
 .item22 {
-  grid-column: 1 / span 3;
+  grid-column: 1 / span 2;
 }
 
 .item23 {
-  grid-column: 4 / span 3;
+  grid-column: 3 / span 2;
+}
+
+.item24 {
+  grid-column: 5 / span 2;
 }
